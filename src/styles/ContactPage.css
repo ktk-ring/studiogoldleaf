@@ -1,0 +1,42 @@
+.contact-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+}
+
+.contact-section {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.contact-section h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.contact-section p {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 1.5rem;
+}
+
+.contact-email {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.instagram-link {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #e1306c;
+  text-decoration: none;
+  border-bottom: 2px solid #e1306c;
+  transition: opacity 0.2s ease;
+}
+
+.instagram-link:hover {
+  opacity: 0.7;
+}
